@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="TINtv" group-title="TV EN VIVO" tvg-logo="" , TIN
+https://unlimited2-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="2" tvg-name="LocalTV" group-title="TV EN VIVO" tvg-logo="", LocalTV
+https://unlimited2-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="3" tvg-name="TIN -2" group-title="TV EN VIVO" tvg-logo="http://192.168.10.58/bixi/logos/TVN.png", TIN Isla (-2)
+https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="4" tvg-name="elReporter24" group-title="TV EN VIVO" tvg-logo="http://192.168.10.58/bixi/logos/13e.png", El Reporter24
+https://unlimited1-cl-movistar.dps.live/13e/13e.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="101" tvg-name="Eventos 1" group-title="Sala De eventos" tvg-logo="http://192.168.10.58/bixi/logos/13e.png", Sala de Eventos 1
+https://unlimited1-cl-movistar.dps.live/13e/13e.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="102" tvg-name="Eventos 2" group-title="Sala De eventos" tvg-logo="http://192.168.10.58/bixi/logos/13e.png", Sala de Eventos 2
+https://unlimited1-cl-movistar.dps.live/13e/13e.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="103" tvg-name="Eventos 3" group-title="Sala De eventos" tvg-logo="http://192.168.10.58/bixi/logos/13e.png", Sala de Eventos 3
+https://unlimited1-cl-movistar.dps.live/13e/13e.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="104" tvg-name="Eventos 4" group-title="Sala De eventos" tvg-logo="http://192.168.10.58/bixi/logos/13e.png", Sala de Eventos 4
+https://unlimited1-cl-movistar.dps.live/13e/13e.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Sherlock" tvg-logo="" , 1x1 - Estudio En Rosa
+https://unlimited2-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Sherlock" tvg-logo="" , 1x2 -
+https://unlimited2-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
