@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3478000,RESOLUTION=1280x720,CODECS="avc1.77.30, mp4a.40.2"
+https://firebasestorage.googleapis.com/v0/b/el20play.appspot.com/o/VideoClips%2FColdplay%2FHymn%20For%20The%20Weekend%2FPrueba720p.m3u8?alt=media&token=c7e6fd85-84d7-46ef-953b-4eae549624c3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5232000,RESOLUTION=1920x1080,CODECS="avc1.640029, mp4a.40.2"
+https://firebasestorage.googleapis.com/v0/b/el20play.appspot.com/o/VideoClips%2FColdplay%2FHymn%20For%20The%20Weekend%2FPrueba1080p.m3u8?alt=media&token=91470913-dbf6-4d92-828a-7dd3c3d5fe5d
