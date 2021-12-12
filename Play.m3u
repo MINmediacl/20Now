@@ -11,7 +11,7 @@ https://unlimited1-cl-movistar.dps.live/13e/13e.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="104" tvg-name="Eventos 4" group-title="Sala De eventos" tvg-logo="http://192.168.10.58/bixi/logos/13e.png", Sala de Eventos 4
 https://unlimited1-cl-movistar.dps.live/13e/13e.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="Sherlock" tvg-logo="" , 1x1 - Estudio En Rosa
-https://unlimited2-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ColdPlau" tvg-logo="" , Emision de Prueba
+https://raw.githubusercontent.com/soymartinfm/20play/canales/contenido/Coldplay.m3u8
 #EXTINF:-1 group-title="Sherlock" tvg-logo="" , 1x2 -
 https://unlimited2-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
